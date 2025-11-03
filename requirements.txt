@@ -1,0 +1,8 @@
+# Arduino Library Requirements
+MFRC522 by GithubCommunity or Miguel Balboa
+DFRobotDFPlayerMini by DFRobot
+SoftwareSerial (built-in)
+SPI (built-in)
+
+# Optional
+NewPing (alternative for HC-SR04)
